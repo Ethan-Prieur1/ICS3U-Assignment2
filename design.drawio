@@ -28,19 +28,19 @@
                 <mxCell id="2" value="Perimeter Program" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="270" y="30" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="6">
+                <mxCell id="24" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="30" y="180" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="4" target="20">
+                <mxCell id="23" value="" style="edgeStyle=none;html=1;" parent="1" source="4" target="20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="Process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="270" y="170" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="22">
+                <mxCell id="25" value="" style="edgeStyle=none;html=1;" parent="1" source="5" target="22" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -49,7 +49,7 @@
                 <mxCell id="6" value="Get Length of all 6 Sides" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="30" y="340" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="Perimeter = Length * 6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="20" value="&amp;nbsp;Perimeter = Length_1 + Length_2 + Length_3 + Length_4 + Length_5 + Length_6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="265" y="340" width="130" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="Show Perimeter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
